@@ -4,5 +4,3 @@
 
 - Check out my website: [https://notchr.is/](https://notchr.is/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notchris)](https://github.com/anuraghazra/github-readme-stats)
-
